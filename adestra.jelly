@@ -41,7 +41,7 @@ TABLE.summary {
 
 </STYLE>
 <BODY>
-<j:set var="spc" value="&amp;nbsp;&amp;nbsp;" />
+<j:set var="spc" value="&nbsp;&nbsp;" />
 <j:set var="statusClass" value="unstable" />
 
 <!-- GENERAL INFO -->
